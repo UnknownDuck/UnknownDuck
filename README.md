@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UnknownDuck
 
-I'm most intrested and looking forward to learning more about red teaming and pen-testing.
+I'm intrested and looking forward to learning more about red teaming and pen-testing.
 
 
 <!---
